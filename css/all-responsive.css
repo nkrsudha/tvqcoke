@@ -94,13 +94,13 @@ color: #00263d;
 	float: left;
 	padding: 0 0 0 11px;
 	margin: 0 0 0 11px;
-	background: url(../_images/global/separator.png) no-repeat 0 50%;
+	background: url(../images/global/separator.png) no-repeat 0 50%;
 	color: #fff;
 }
 .top-nav li:first-child{background: none;}
 .top-nav a{color: #fff;}
 .promo{
-	background: #fff url(../_images/global/bg-promo.png) repeat-x 0 100%;
+	background: #fff url(../images/global/bg-promo.png) repeat-x 0 100%;
 	width: 100%;
 }
 .promo .holder{
@@ -120,7 +120,7 @@ color: #00263d;
 	width:27px;
 	height:27px;
 	margin:0 2px 0 auto;
-	background: url(../_images/global/sprite.png) no-repeat -178px 0;
+	background: url(../images/global/sprite.png) no-repeat -178px 0;
 }
 .holder.active .btn,
 .holder .btn.hover,
@@ -170,7 +170,7 @@ a.menu	{ display: none; }
 	/*margin-right: -10px;
 	padding-right: 20px;*/
 	width: 200px;
-	background: url(../_images/global/arrow.png) no-repeat 100% 0;
+	background: url(../images/global/arrow.png) no-repeat 100% 0;
 }
 #nav .drop{
 	height: 305px;
@@ -180,7 +180,7 @@ a.menu	{ display: none; }
 	top: -9999px;
 	padding: 8px 8px 3px;
 	box-shadow: 0 0 6px 0 rgba(0,0,0,0.4);
-	background: #e7e8e5 url(../_images/global/bg-drop.png) repeat-y;
+	background: #e7e8e5 url(../images/global/bg-drop.png) repeat-y;
 }
 #nav .drop.wide{
 	width: 430px;
@@ -233,7 +233,7 @@ a.menu	{ display: none; }
 #nav .drop ul a:hover{background: #fff;}
 #nav .drop span{
 	position: absolute;
-	background: url(../_images/global/sprite.png) no-repeat;
+	background: url(../images/global/sprite.png) no-repeat;
 }
 #nav .drop .item-1 span{
 	left: 12px;
@@ -469,10 +469,10 @@ a.menu	{ display: none; }
 	width: 132px;
 	height: 55px;
 	font-style: normal;
-	background: #0081c3 url(../_images/global/pencil.png) no-repeat 20px 50%;
+	background: #0081c3 url(../images/global/pencil.png) no-repeat 20px 50%;
 	color: #FFF;
 }
-#nav .drop .item-28:hover{background: #570001 url(../_images/global/pencil.png) no-repeat 20px 50%;}
+#nav .drop .item-28:hover{background: #570001 url(../images/global/pencil.png) no-repeat 20px 50%;}
 
 #nav .drop .item-29 span{
 	left: 12px;
@@ -607,7 +607,7 @@ a.menu	{ display: none; }
 	display: block;
 	text-indent: -9999px;
 	overflow:hidden;
-	background: url(../_images/global/sprite.png) no-repeat;
+	background: url(../images/global/sprite.png) no-repeat;
 }
 .social a:hover{ cursor: pointer;}
 .social .linkedin{
@@ -623,7 +623,7 @@ a.menu	{ display: none; }
 }
 .social .youtube:hover{background-position: -92px -29px;}
 .social .twitter{
-	background: url(../_images/global/sprite.png) no-repeat;
+	background: url(../images/global/sprite.png) no-repeat;
 	background-position: -216px 0;
 	width: 30px;
 	height: 22px;
@@ -643,7 +643,7 @@ a.menu	{ display: none; }
 	top: 100%;
 	left: 0;
 	padding: 7px 10px 6px 14px;
-	background: #0d6ca3 url(../_images/global/bg-search.png) repeat-x;
+	background: #0d6ca3 url(../images/global/bg-search.png) repeat-x;
 }
 .search-form input[type=text]{
 	float: left;
@@ -665,7 +665,7 @@ a.menu	{ display: none; }
 	height: 30px;
 	width: 30px;
 	border: none;
-	background: url(../_images/global/sprite.png) no-repeat 0 -62px;
+	background: url(../images/global/sprite.png) no-repeat 0 -62px;
 	font-size: 0;
 	line-height: 0;
 	text-indent: -9999px;
@@ -713,7 +713,7 @@ a.menu	{ display: none; }
 	position: absolute;
 	bottom: 0;
 	right: 0;
-	background: url(../_images/global/bg-switcher.png);
+	background: url(../images/global/bg-switcher.png);
 	margin: 0;
 	list-style: none;
 	padding: 9px 12px 8px;
@@ -729,7 +729,7 @@ a.menu	{ display: none; }
 	overflow:hidden;
 	width: 8px;
 	height: 8px;
-	background: url(../_images/global/sprite.png) no-repeat 0 -47px;
+	background: url(../images/global/sprite.png) no-repeat 0 -47px;
 }
 .gallery .switcher .active a,
 .gallery .switcher a.active,
@@ -902,7 +902,7 @@ background: #111;
 	overflow: hidden;
 	width: 16px;
 	height: 13px;
-	background: url(../_images/global/sprite.png) no-repeat -192px -78px;
+	background: url(../images/global/sprite.png) no-repeat -192px -78px;
 }
 
 
@@ -963,7 +963,7 @@ background: #111;
 	margin: 0;
 	display: block;
 	font-size: 18px;
-	background: #0081c3 url(../_images/global/sign_up_arrow.png) no-repeat 100% 50%;
+	background: #0081c3 url(../images/global/sign_up_arrow.png) no-repeat 100% 50%;
 }
 .sign-form a:hover{
 	text-decoration: none;
@@ -1133,9 +1133,9 @@ background: #111;
 
 
 
-#sidebar a.request_callback	{background: #0081c3 url('../_images/global/phone.png') no-repeat 10px 50%;}
-#sidebar a.apply_now	{background: #0081c3 url('../_images/global/pencil.png') no-repeat 10px 50%;}
-#sidebar a.sign_up	{background: #0081c3 url(../_images/global/sign_up_arrow.png) no-repeat 100% 50%;}
+#sidebar a.request_callback	{background: #0081c3 url('../images/global/phone.png') no-repeat 10px 50%;}
+#sidebar a.apply_now	{background: #0081c3 url('../images/global/pencil.png') no-repeat 10px 50%;}
+#sidebar a.sign_up	{background: #0081c3 url(../images/global/sign_up_arrow.png) no-repeat 100% 50%;}
 
 #sidebar .blockquote{
 	margin: 0 0 20px;
@@ -1193,7 +1193,7 @@ background: #111;
 	padding: 6px 0 6px 12px;
 	margin: 0 0 0 0;
 	border-top: 1px solid #d6d6d6;
-	background: url(../_images/global/arrow-3.png) no-repeat 1px 13px;
+	background: url(../images/global/arrow-3.png) no-repeat 1px 13px;
 	}
 
 
@@ -1216,7 +1216,7 @@ background: #111;
 }
 .breadcrumbs li{
 	display: inline-block;
-	background: url(../_images/global/arrow-2.png) no-repeat 0 50%;
+	background: url(../images/global/arrow-2.png) no-repeat 0 50%;
 	margin: 0 7px 0 0;
 	padding: 0 0 0 14px;
 }
@@ -1299,7 +1299,7 @@ background: #111;
 	overflow: visible;
 	height: 40px;
 	border: none;
-	background: #0081c3 url(../_images/global/bg-submit.png) no-repeat 100% 0;
+	background: #0081c3 url(../images/global/bg-submit.png) no-repeat 100% 0;
 	font: 17px "open-sans-n6", "open-sans", Arial, Helvetica, sans-serif;
 	font-weight: 600;
 	font-style: normal;
@@ -1360,7 +1360,7 @@ background: #111;
 	overflow:hidden;
 	width: 16px;
 	height: 13px;
-	background: url(../_images/global/sprite.png) no-repeat;
+	background: url(../images/global/sprite.png) no-repeat;
 }
 .slider .btn-prev{background-position: -173px -78px;}
 .slider .btn-next{background-position: -192px -78px;}
@@ -1420,7 +1420,7 @@ background: #111;
 .content-post li{
 	padding: 0 0 0 12px;
 	margin: 0 0 0 0;
-	background: url(../_images/global/arrow-3.png) no-repeat 1px 8px;
+	background: url(../images/global/arrow-3.png) no-repeat 1px 8px;
 	}
 .service-block{
 	border-bottom: 4px solid #d6d6d6;
@@ -1459,16 +1459,16 @@ background: #111;
 .services li a .icon					{ margin: 0 auto; width: 60px; height: 50px; background-position: 0 0; margin-bottom: 10px;}
 .services li a:hover .icon			{ background-position: 60px 0;}
 
-.project-portfolio-management				{ background-image: url(../_images/global/icon-project-portfolio-management.jpg)}
-.manufacturing									{ background-image: url(../_images/global/icon-manufacturing.jpg)}
-.mergers-acquisitions-integrations			{ background-image: url(../_images/global/icon-mergers.jpg)}
-.product-development							{ background-image: url(../_images/global/icon-product-development.jpg)}
-.business-process-management					{ background-image: url(../_images/global/icon-business-process-improvement.jpg)}
-.regulatory-quality				{ background-image: url(../_images/global/icon-quality-assurance.jpg)}
-.supply-chain-optimization					{ background-image: url(../_images/global/icon-supply-chain.jpg)}
-.change-management							{ background-image: url(../_images/global/icon-change-management.jpg)}
-.business-technology					{ background-image: url(../_images/global/icon-it.jpg)}
-.capital-project-management		{ background-image: url(../_images/global/icon-facility.jpg)}
+.project-portfolio-management				{ background-image: url(../images/global/icon-project-portfolio-management.jpg)}
+.manufacturing									{ background-image: url(../images/global/icon-manufacturing.jpg)}
+.mergers-acquisitions-integrations			{ background-image: url(../images/global/icon-mergers.jpg)}
+.product-development							{ background-image: url(../images/global/icon-product-development.jpg)}
+.business-process-management					{ background-image: url(../images/global/icon-business-process-improvement.jpg)}
+.regulatory-quality				{ background-image: url(../images/global/icon-quality-assurance.jpg)}
+.supply-chain-optimization					{ background-image: url(../images/global/icon-supply-chain.jpg)}
+.change-management							{ background-image: url(../images/global/icon-change-management.jpg)}
+.business-technology					{ background-image: url(../images/global/icon-it.jpg)}
+.capital-project-management		{ background-image: url(../images/global/icon-facility.jpg)}
 
 .services a{color: #333;}
 .services img{
@@ -1540,7 +1540,7 @@ background: #111;
 }
 .post-block ul li{
 	padding: 5px 0 0 12px;
-	background: url(../_images/global/arrow-3.png) no-repeat 1px 12px;
+	background: url(../images/global/arrow-3.png) no-repeat 1px 12px;
 	margin: 0 0 7px;
 }
 .post-block .alignright{
@@ -1616,7 +1616,7 @@ background: #111;
 	overflow: hidden;
 	width: 16px;
 	height: 13px;
-	background: url(../_images/global/sprite.png) no-repeat -192px -78px;
+	background: url(../images/global/sprite.png) no-repeat -192px -78px;
 }
 .side-box.box-1 .title span{border-color: #df564d;}
 .side-box.box-2 .title span{border-color: #80c0ce;}
@@ -1658,7 +1658,7 @@ ul.insights-list li a:hover{color: #0081c3; }
 	height: 30px;
 	width: 30px;
 	border: none;
-	background: url(../_images/global/sprite.png) no-repeat 0 -62px;
+	background: url(../images/global/sprite.png) no-repeat 0 -62px;
 	font-size: 0;
 	line-height: 0;
 	text-indent: -9999px;
@@ -1775,7 +1775,7 @@ form#full_page textarea.error													{ border: 1px #C92F2E solid; backgroun
 .employee-holder .employee-info h2{font: 40px/40px "open-sans-n3", "open-sans", Arial, Helvetica, sans-serif; font-weight: 300; font-style: normal; color: #df574d; margin: 15px 15px 0 15px; width: 75%;}
 .employee-holder .employee-info h3{ font: 24px/30px "open-sans-n3", "open-sans", Arial, Helvetica, sans-serif; font-weight: 300; font-style: normal; color: #333; margin: 0 15px 15px;width: 75%;}
 .employee-holder .employee-info h3 em{ font-family: "open-sans-i3", "open-sans", Arial, Helvetica, sans-serif;}
-.employee-holder .employee-info span{width: 78px; height: 78px; background: url(../_images/global/sprite.png) 0 -567px; display:block; position:absolute; right:  45px; bottom: 45px;}
+.employee-holder .employee-info span{width: 78px; height: 78px; background: url(../images/global/sprite.png) 0 -567px; display:block; position:absolute; right:  45px; bottom: 45px;}
 
 .vimeovideowrapper {margin: 15px 0; }
 .inset-video{ max-width: 395px;}
@@ -1857,7 +1857,7 @@ div#iframeHeightDiv{z-index: 0!important;}
 	margin: 3px 0 0 0;
 	height: 21px;
 	width: 21px;
-	background: url(../_images/global/sprite.png) no-repeat -143px 0;
+	background: url(../images/global/sprite.png) no-repeat -143px 0;
 }
 .search-form input[type=submit]:hover{background-position: -143px -29px;}
 
@@ -2075,7 +2075,7 @@ img[style] {
 	top: -9999px;
 	padding: 0; /*8px 8px 3px*/
 	box-shadow: 0 0 6px 0 rgba(0,0,0,0.4);
-	background: #e7e8e5 url(../_images/global/bg-drop.png) repeat-y;
+	background: #e7e8e5 url(../images/global/bg-drop.png) repeat-y;
 	width: 50%;
 }
 #nav .drop.wide{
@@ -2132,7 +2132,7 @@ img[style] {
 #nav .drop ul a:hover{background: #fff;}
 #nav .drop span{
 	position: absolute;
-	background-image: url(../_images/global/sprite.png);
+	background-image: url(../images/global/sprite.png);
 	background-repeat: no-repeat;
 	background-size: 200px;
 }
@@ -2396,11 +2396,11 @@ img[style] {
 	width: 132px;
 	height: 55px;
 	font-style: normal;
-	background: #0081c3 url(../_images/global/pencil.png) no-repeat 12px 50%;
+	background: #0081c3 url(../images/global/pencil.png) no-repeat 12px 50%;
 	background-size: 20px;
 	color: #FFF;
 }
-#nav .drop .item-28:hover{background: #570001 url(../_images/global/pencil.png) no-repeat 12px 50%;background-size: 20px;}
+#nav .drop .item-28:hover{background: #570001 url(../images/global/pencil.png) no-repeat 12px 50%;background-size: 20px;}
 
 .content-post h1 {font-size: 32px; line-height: 32px;  }
 .content-post .intro, .content-post h2{font-size: 20px; line-height: 24px;}
@@ -2422,8 +2422,8 @@ img[style] {
 .careers-home .news-block .box .frame {font: 18px/20px "open-sans-n3", "open-sans", Arial, Helvetica, sans-serif;padding: 14px 17px 0 152px; min-height: 126px;}
 .careers-home .news-block .box .frame p{margin-top: 3px;}
 .careers-home .news-block .box .frame strong{font-size: 10px; letter-spacing: 1px;}
-.job-block .job-button a{ text-indent: -9999px; display:block; padding: 10px; background: #0081c3 url(../_images/global/sprite.png) -2px -2px; width: 15px; height: 15px;}
-.job-block .job-button a:hover{background: #0081c3 url(../_images/global/sprite.png) -265px -2px;}
+.job-block .job-button a{ text-indent: -9999px; display:block; padding: 10px; background: #0081c3 url(../images/global/sprite.png) -2px -2px; width: 15px; height: 15px;}
+.job-block .job-button a:hover{background: #0081c3 url(../images/global/sprite.png) -265px -2px;}
 
 
 .subsection-content{width: 100%; float:none;}
