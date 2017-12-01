@@ -126,7 +126,7 @@ color: #00263d;
 .holder .btn.hover,
 #sidebar > a.btn:hover{background-position:-178px -27px;}
 .nav-box{
-	margin: 0 0 20px;
+	margin: 0 90px 20px;
 	position: relative;
 	z-index: 10;
 	float: left;
